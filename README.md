@@ -1,5 +1,5 @@
 # Sutton and Barto Reinforcement Learning Book Programming Solutions
-Here you will find the solutions to some of the programming exercises of the Sutton and Barto Reinforcement Learning Book:
+Here you will find the solutions to some of the programming exercises of the Sutton and Barto Reinforcement Learning Book.
 
 ## Exercise 2.5 (programming) 
 
