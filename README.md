@@ -19,6 +19,10 @@ case outlined in Exercise 2.5. Include the constant-step-size "epsilon-greedy al
 epsilon= 0.1. Use runs of 200,000 steps and, as a performance measure for each algorithm and
 parameter setting, use the average reward over the last 100,000 steps.
 
+## Exercise 3.7
+
+Exercise 3.7 Imagine that you are designing a robot to run a maze. You decide to give it a reward of +1 for escaping from the maze and a reward of zero at all other times. The task seems to break down naturally into episodes—the successive runs through the maze—so you decide to treat it as an episodic task, where the goal is to maximize expected total reward (3.7). After running the learning agent for a while, you find that it is showing no improvement in escaping from the maze. What is going wrong? Have you e↵ectively communicated to the agent what you want it to achieve?
+
 
 
 
